@@ -36,8 +36,8 @@ import pandas as pd
 df = pd.read_csv("/content/Encoding Data.csv")
 df
 ```
-![Screenshot (293)](https://github.com/user-attachments/assets/2b57d109-a5e4-4911-8072-b13b635bce81)
 
+![Screenshot 2025-04-22 104543](https://github.com/user-attachments/assets/648b9654-48aa-44e2-adb8-8ddf97bf81dc)
 
 ```
 from sklearn.preprocessing import LabelEncoder,OrdinalEncoder
